@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyproj
+*.pycproj
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+env_bak/
+venv_bak/
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
+
